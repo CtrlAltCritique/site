@@ -7,11 +7,13 @@ tags: [video game, critique]
 pin: true
 ---
 
-![Games](/assets/img/posts/20231016/games.jpg){: .normal }
+![Desktop View](/assets/img/posts/20231016/games.jpg){: width="972" height="589" }
 
 Hello Internet!
 
 For now, we're leaving you with "Video Game Lorem Ipsum"!
+
+<br />
 
 Frame ÜberCharge WWE 2K underpowered boss The Oregon Trail WoW Far Cry easter eggs on-disc dlc. Paddle NPC XP 1-Up spoiler PvP Healer capture the flag FPS Metal Gear Solid V: The Phantom Pain. Barrel stuffing power-Up campaign A Call of Duty backward compatible action Grand Theft Auto wanted level QQ. Gran Turismo Nintendo DS last hitting SimCity gamer Atari 2600 AAA HUD anti-aliasing faceroll RTS Bullet Hell. Spyro VAC Assassin's Creed analog control publisher genre Monster Hunter Medal of Honor console sprite Beat 'em up KO RPG. Difficulty whale The Legend of Zelda: The Wind Waker Survival Horror D-Pad loot system AFK cheats.
 
