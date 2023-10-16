@@ -7,11 +7,13 @@ tags: [video game, critique]
 pin: true
 ---
 
-![Desktop View](/assets/img/posts/20231016/games.jpg){: width="972" height="589" }
+![Desktop View](/assets/img/posts/20231016/games.jpg)
 
 Hello Internet!
 
-For now, we're leaving you with "Video Game Lorem Ipsum"!
+We are three friends 
+
+This we
 
 <br />
 
