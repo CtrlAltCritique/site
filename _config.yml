@@ -106,7 +106,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://ctrlaltcritique.netlify.app"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
